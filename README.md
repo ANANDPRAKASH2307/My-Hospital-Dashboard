@@ -56,8 +56,8 @@ This project involves the analysis of a hospital's operational data, including p
 
 ## Dashboard Snaps
 
-![image]()
-![Dashboard Overview]()  
+![image](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Screenshot%202025-09-21%20052930.png?raw=true)
+![Dashboard Overview](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Screenshot%202025-09-21%20052930.png?raw=true)  
 ![Hospital Dashboard](Screenshot-2025-09-21-053001.jpg)  
 ![Analysis Dashboard](Screenshot-2025-09-21-053103.jpg)  
 ![Patient Dashboard](Screenshot-2025-09-21-053052.jpg)  
