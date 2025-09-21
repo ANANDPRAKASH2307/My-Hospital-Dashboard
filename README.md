@@ -56,7 +56,8 @@ This project involves the analysis of a hospital's operational data, including p
 
 ## Dashboard Snaps
 
-![Dashboard Overview](Screenshot-2025-09-21-052943.jpg)  
+![image]()
+![Dashboard Overview]()  
 ![Hospital Dashboard](Screenshot-2025-09-21-053001.jpg)  
 ![Analysis Dashboard](Screenshot-2025-09-21-053103.jpg)  
 ![Patient Dashboard](Screenshot-2025-09-21-053052.jpg)  
