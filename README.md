@@ -64,5 +64,3 @@ This project involves the analysis of a hospital's operational data, including p
 
 ---
 
-This README gives a clear project overview with well-structured sections and bullet points for easy readability. Images are embedded with relative paths assuming you have added these screenshots to your repository.
-
