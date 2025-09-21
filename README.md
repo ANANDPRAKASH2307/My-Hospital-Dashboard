@@ -12,12 +12,13 @@ This project involves the analysis of a hospital's operational data, including p
 
 ## Dashboard Snaps
 
-![image](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Screenshot%202025-09-21%20052930.png?raw=true)
-![image](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Screenshot%202025-09-21%20052943.png?raw=true)
-![image](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Screenshot%202025-09-21%20193410.png?raw=true)
-![image](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Screenshot%202025-09-21%20053052.png?raw=true)
-![image](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Screenshot%202025-09-21%20053103.png?raw=true)
-![image](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Screenshot%202025-09-21%20053124.png?raw=true)
+![image]([https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Screenshot%202025-09-21%20052930.png?raw=true](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Dashboard%20snaps/Screenshot%202025-09-21%20052930.png?raw=true))
+![image](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Dashboard%20snaps/Screenshot%202025-09-21%20052943.png?raw=true)
+![image](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Dashboard%20snaps/Screenshot%202025-09-21%20193410.png?raw=true)
+![image](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Dashboard%20snaps/Screenshot%202025-09-21%20053052.png?raw=true)
+![image](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Dashboard%20snaps/Screenshot%202025-09-21%20053103.png?raw=true)
+![image](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Dashboard%20snaps/Screenshot%202025-09-21%20053124.png?raw=true)
+
 
 ## Files Used
 
