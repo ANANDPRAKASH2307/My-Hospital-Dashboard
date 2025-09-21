@@ -10,6 +10,15 @@ This project involves the analysis of a hospital's operational data, including p
 
 **Data Visualization** - PowerBI
 
+## Dashboard Snaps
+
+![image](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Screenshot%202025-09-21%20052930.png?raw=true)
+![image](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Screenshot%202025-09-21%20052943.png?raw=true)
+![image](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Screenshot%202025-09-21%20193410.png?raw=true)
+![image](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Screenshot%202025-09-21%20053052.png?raw=true)
+![image](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Screenshot%202025-09-21%20053103.png?raw=true)
+![image](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Screenshot%202025-09-21%20053124.png?raw=true)
+
 ## Files Used
 
 - **Hospital-Bills.xlsx:** Tracks all financial transactions, including charges and payments, for each patient's hospital stay.
@@ -54,14 +63,7 @@ This project involves the analysis of a hospital's operational data, including p
 - Staff count and doctor count remain relatively stable over the dashboard period.  
 - Most patient test results returned as "Normal," suggesting good routine patient health or effective treatments.  
 
-## Dashboard Snaps
 
-![image](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Screenshot%202025-09-21%20052930.png?raw=true)
-![image](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Screenshot%202025-09-21%20052943.png?raw=true)
-![image](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Screenshot%202025-09-21%20193410.png?raw=true)
-![image](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Screenshot%202025-09-21%20053052.png?raw=true)
-![image](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Screenshot%202025-09-21%20053103.png?raw=true)
-![image](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Screenshot%202025-09-21%20053124.png?raw=true)
   
 
 ---
