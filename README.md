@@ -9,7 +9,7 @@ This project involves the analysis of a hospital's operational data, including p
 
 **Data Visualization** - PowerBI
 
-##Files Used
+## Files Used
 
 Hospital-Bills.xlsx: Tracks all financial transactions, including charges and payments, for each patient's hospital stay.
 Beds.xlsx: Manages the occupancy status of each bed, linking beds to specific rooms and patients.
@@ -27,7 +27,7 @@ Surgery.xlsx: Records all surgical appointments, detailing the procedure, associ
 Satisfaction-Score.xlsx: Stores patient feedback and ratings to gauge satisfaction with doctors and departments.
 Rooms.xlsx: Provides information on hospital rooms, including their type, capacity, and associated costs.
 
-##Questions
+## Questions
 
 Why do surgery charges consistently dominate other revenue categories on the dashboard?
 What underlying causes lead to monthly spikes in medicine sales and patient discharges?
