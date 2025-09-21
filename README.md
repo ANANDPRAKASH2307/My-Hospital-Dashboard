@@ -57,11 +57,12 @@ This project involves the analysis of a hospital's operational data, including p
 ## Dashboard Snaps
 
 ![image](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Screenshot%202025-09-21%20052930.png?raw=true)
-![Dashboard Overview](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Screenshot%202025-09-21%20052930.png?raw=true)  
-![Hospital Dashboard](Screenshot-2025-09-21-053001.jpg)  
-![Analysis Dashboard](Screenshot-2025-09-21-053103.jpg)  
-![Patient Dashboard](Screenshot-2025-09-21-053052.jpg)  
-![Doctor Dashboard](Screenshot-2025-09-21-053124.jpg)  
+![image](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Screenshot%202025-09-21%20052943.png?raw=true)
+![image]()
+![image](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Screenshot%202025-09-21%20053052.png?raw=true)
+![image](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Screenshot%202025-09-21%20053103.png?raw=true)
+![image](https://github.com/ANANDPRAKASH2307/My-Hospital-Dashboard/blob/main/Screenshot%202025-09-21%20053124.png?raw=true)
+  
 
 ---
 
